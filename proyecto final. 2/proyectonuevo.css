@@ -1,0 +1,32 @@
+h1{
+
+font-family: 'Roboto Mono', monospace;
+font-family: 'Young Serif', serif;
+    background: blue;
+    height: 100px;
+    width: 100%;
+    text-align: center;
+    line-height: 100px;
+    margin: 0%
+
+}
+
+ul{
+    font-size: 30px;
+}
+
+header{
+    background:lightblue;
+}
+
+img{
+
+    height: 200px;
+    width:200px;
+   
+}
+
+#demo{
+    font-size: xx-large;
+}
+
